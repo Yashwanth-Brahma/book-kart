@@ -1,0 +1,18 @@
+#price{
+    margin-left: 1.5em;
+}
+
+#author{
+    font-size: medium;
+}
+
+#isbn{
+    margin-left: 10px;
+}
+#cards1{
+    margin-top:20px ;
+    margin-bottom: 20px;
+}
+#page{
+    text-align: center;
+}
